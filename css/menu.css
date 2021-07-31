@@ -1,0 +1,28 @@
+
+nav {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.menu li {
+    width: 10%;
+    list-style: none;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu a {
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: violet;
+}
+
+.menu a:hover {
+    background-color: whitesmoke;
+    border: 5px white solid;
+    color: black;
+    border-radius: 3px;
+}
